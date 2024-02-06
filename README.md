@@ -1,4 +1,3 @@
-
 ## ES6 Basics
 
 This project introduces learners to modern JasvaScript essentials.
