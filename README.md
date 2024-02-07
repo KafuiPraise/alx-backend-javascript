@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last login: Wed Jan 24 03:36:32 on console
 
 The default interactive shell is now zsh.
@@ -532,6 +533,8 @@ vagrant@ubuntu-focal:~/alx-backend-javascript/0x00-ES6_basic$ ls
 11-createEmployeesObject.js  6-string-interpolation.js
 vagrant@ubuntu-focal:~/alx-backend-javascript/0x00-ES6_basic$ vi README.md 
 
+=======
+>>>>>>> 2c7ff819ea39a268e43bbfb01aa96668b7e3b6ab
 ## ES6 Basics
 
 This project introduces learners to modern JasvaScript essentials.
@@ -555,6 +558,7 @@ Install NodeJS 12.x
 - nodejs -v
 - npm -v
 
+<<<<<<< HEAD
 Install Jest, Babel and ESList by using the supplied `package.json` and run `npm install`.
 ~                                                                                          
 ~                                                                                          
@@ -583,3 +587,6 @@ Install Jest, Babel and ESList by using the supplied `package.json` and run `npm
 ~                                                                                          
 "README.md" 24L, 686C                                                    1,3           All
 
+=======
+Install Jest, Babel and ESList by using the supplied `package.json` and run `npm install`.                               
+>>>>>>> 2c7ff819ea39a268e43bbfb01aa96668b7e3b6ab
