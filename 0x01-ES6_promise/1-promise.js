@@ -1,9 +1,4 @@
-/*
- Using the prototype below, return a promise
-*/
-export default function handleResponseFromAPI(promise) {
-  return promise
-    .then(() => ({ status: 200, body: 'success' }))
-    .catch(() => new Error())
-    .finally(() => console.log('Got a response from the API'));
+export default function getFullResponseFromAPI(success) {
+  if (success) return Promise.resolve({ status: 200, body: 'Success' });
+  return Promise.reject(new Error('The fake API is not working currently'));
 }
